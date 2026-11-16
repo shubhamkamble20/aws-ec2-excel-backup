@@ -1,0 +1,5 @@
+Confirmed_Backup_Report_*.xlsx
+Backup_Report_*.xlsx
+*.csv
+__pycache__/
+.DS_Store
